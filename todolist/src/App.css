@@ -1,0 +1,28 @@
+.Todolist {
+  text-align: center;
+  
+}
+
+
+.Todolist-head {
+  background-color: #282c34;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.Todolist-table {
+  margin: auto;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.Submitted {
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
